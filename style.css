@@ -15,7 +15,7 @@ html, body {
 }
 
 .join-block {
-  /* background-image: url('background.png'); */
+  background-image: url('background.png');
   height: 50vh;
 }
 
